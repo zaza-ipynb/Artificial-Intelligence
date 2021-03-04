@@ -1,3 +1,3 @@
-#Aritificial Intelligence
+# Aritificial Intelligence
 
-This Repo includes code/algorithm about Artificial Intelligence, Machine Learning and Deep Learning.
+**This Repo includes code/algorithm about Artificial Intelligence, Machine Learning and Deep Learning.**
