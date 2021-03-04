@@ -1,2 +1,2 @@
-# Swarm-Intelligence
-Task or Anything about swarm demo algorithm
+#Aritificial Intelligence
+This Repo includes code/algorithm about Artificial Intelligence, Machine Learning and Deep Learning.
